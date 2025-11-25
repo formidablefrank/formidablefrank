@@ -1,5 +1,8 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/683fa4701e1dbfe14cfa6c70?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
 
+_Nothing to lose, everything to gain_
+
+[@formidablefrank](https://linktr.ee/formidablefrank)
 <!--
 **formidablefrank/formidablefrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

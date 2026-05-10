@@ -1,30 +1,34 @@
-# Joshua Frankie Rayo
+# Hi, I'm Franco
 
-Research software engineer working across high-performance computing, scientific computing, and machine learning.
+I'm a research software engineer working across scientific projects utilizing high-performance computing, scientific computing, and machine learning.
 
-I build numerical and data-intensive software for scientific and engineering problems: from storm-surge modeling and Earth observation workflows to simulation tooling, analytics pipelines, and applied ML systems. My work sits at the intersection of reproducible research, production software engineering, and compute infrastructure.
+I am wrapping up my studies for Master in High Performance Computing at Scuola Internazionale Superiore di Studi Avanzati (SISSA), with full scholarship awarded by the Abdus Salam International Center for Theoretical Physics (ICTP).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-formidablefrank-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/formidablefrank)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=usKAWbsAAAAJ)
-[![Links](https://img.shields.io/badge/Links-linktr.ee-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/formidablefrank)
+[![Linktree](https://img.shields.io/badge/linktr.ee-formidablefrank-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/formidablefrank)
 
 ## What I Work On
 
-- High-performance computing for simulation, numerical modeling, and data processing.
+I build reliable software for scientific and engineering problems: from storm-surge modeling, weather forecasts and Earth observation data analysis to simulations, automated pipelines, and applied ML systems.
+
+- High-performance computing for simulation, numerical modeling, and scalable data processing.
 - Scientific software in Python, Fortran, C++, MATLAB, and Mathematica.
 - Machine learning and computer vision for applied research workflows.
-- Geospatial and Earth observation systems using GIS, web mapping, and cloud data infrastructure.
-- Research-to-production engineering: testing, automation, CI/CD, containers, and maintainable APIs.
+- Geospatial and Earth observation data analysis using GIS, web mapping, and machine learning.
+- Software engineering: testing, automation, CI/CD, containers, and maintainable APIs.
 
-## Tools I Use
+## Tech stack
 
-**HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm  
-**Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica, NetLogo  
-**ML and data:** PyTorch, OpenCV, scikit-learn, GeoPandas, matplotlib, bokeh, Panel, Power BI, Airflow  
-**Geospatial:** QGIS, Google Earth Engine, Google Maps, STAC, Leaflet  
-**Software engineering:** Git, Docker, C#, PHP, Java, Ruby, CI/CD, Agile/Scrum  
-**Web and APIs:** Django, FastAPI, ASP.NET Core, Ruby on Rails, HTML, CSS, JavaScript  
-**Cloud and systems:** OpenStack, Azure, AWS, GCP, Linux, Windows, Ansible, Cobbler, Ganglia
+I am especially interested in software that helps researchers and scientists run larger experiments and build prototypes into tools that other people can actually use.
+
+- **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
+- **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  
+- **ML and data engineering:** PyTorch, OpenCV, scikit-learn, GeoPandas, Panel, Power BI, Airflow  
+- **Geospatial data analysis:** QGIS, Google Earth Engine, Google Maps, STAC, Leaflet  
+- **Software engineering:** Git, Docker, C#, PHP, Java, Ruby, CI/CD, Agile/Scrum  
+- **Web and APIs:** Django, FastAPI, ASP.NET Core, Ruby on Rails, HTML, CSS, JavaScript  
+- **Cloud and systems administration:** OpenStack, Azure, AWS, GCP, Linux, Windows, Ansible, Cobbler, Ganglia
 
 ## Featured Projects
 
@@ -38,12 +42,10 @@ I build numerical and data-intensive software for scientific and engineering pro
 | [leaflet-osm](https://github.com/formidablefrank/leaflet-osm) | JavaScript, Leaflet | Starter project for web mapping applications with OpenStreetMap and Leaflet. |
 | [WazeRouteCalculator](https://github.com/formidablefrank/WazeRouteCalculator) | Python | Fork for calculating route time and distance using Waze data. |
 
-## Current Direction
-
-I am focused on building stronger bridges between applied mathematics, scientific simulation, data engineering, and modern ML systems. I am especially interested in software that helps researchers run larger experiments, make results reproducible, and move prototypes into tools that other people can actually use.
-
 ## Find Me
 
-- Link hub: [linktr.ee/formidablefrank](https://linktr.ee/formidablefrank)
+I also deliver digital transformation solutions that helped small enterprises strengthen their online presence and achieve their business objectives. Feel free to contact me thru LinkedIn
+
 - LinkedIn: [linkedin.com/in/formidablefrank](https://linkedin.com/in/formidablefrank)
+- Linktree: [linktr.ee/formidablefrank](https://linktr.ee/formidablefrank)
 - Google Scholar: [scholar.google.com/citations?user=usKAWbsAAAAJ](https://scholar.google.com/citations?user=usKAWbsAAAAJ)

@@ -1,16 +1,14 @@
 # Hi, I'm Franco
 
-I'm a research software engineer who likes turning scientific ideas into software that runs, scales, and helps people answer real questions.
+I'm a research software engineer who likes turning scientific ideas into software that runs, scales, and helps people answer real questions. Most of my work encompasses high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" demands.
 
-Most of my work encompasses high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" demands.
-
-I'm currently wrapping up my Master in High Performance Computing at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
+I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-formidablefrank-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/formidablefrank)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=usKAWbsAAAAJ)
 [![Linktree](https://img.shields.io/badge/linktr.ee-formidablefrank-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/formidablefrank)
 
-## What I Work On
+## What I Do
 
 I enjoy building software for complex scientific and engineering problems: storm-surge modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
 
@@ -20,9 +18,9 @@ I enjoy building software for complex scientific and engineering problems: storm
 - Working with geospatial and Earth observation data using GIS, web mapping, and ML.
 - Turning prototypes into tested, documented, portable and maintainable software.
 
-## Tech stack
+## Tech Stack
 
-The tools change from project to project, but these are the ones I am comfortable working with:
+The tools change from project to project but these are the ones I am comfortable working with:
 
 - **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  

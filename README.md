@@ -2,7 +2,7 @@
 
 I'm a research software engineer who likes turning scientific ideas into software that runs, scales, and helps people answer real questions.
 
-Most of my work lives around high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" rabbit hole.
+Most of my work encompasses high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" demands.
 
 I'm currently wrapping up my Master in High Performance Computing at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
@@ -12,17 +12,17 @@ I'm currently wrapping up my Master in High Performance Computing at Scuola Inte
 
 ## What I Work On
 
-I enjoy building reliable software for messy scientific and engineering problems: storm-surge modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
+I enjoy building software for complex scientific and engineering problems: storm-surge modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.
 - Applying machine learning and computer vision to research workflows.
 - Working with geospatial and Earth observation data using GIS, web mapping, and ML.
-- Turning prototypes into tested, documented, maintainable software.
+- Turning prototypes into tested, documented, portable and maintainable software.
 
 ## Tech stack
 
-The tools change from project to project, but these are the ones I keep coming back to:
+The tools change from project to project, but these are the ones I am comfortable working with:
 
 - **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  
@@ -36,19 +36,17 @@ The tools change from project to project, but these are the ones I keep coming b
 
 | Project | Stack | Notes |
 | --- | --- | --- |
-| [StormSurgeApp](https://github.com/formidablefrank/StormSurgeApp) | Python | Storm-surge modeling and hazard-analysis tooling. |
-| [asgs](https://github.com/formidablefrank/asgs) | Fortran, shell, HPC | ADCIRC Surge Guidance System fork for real-time model automation and pre/post-processing. |
+| [StormSurgeApp](https://github.com/formidablefrank/StormSurgeApp) | Python | Storm-surge model output processor and hazard-analysis tool. |
+| [asgs](https://github.com/formidablefrank/asgs) | Fortran, shell, HPC | ADCIRC Surge Guidance System fork for real-time storm surge model automation and pre/post-processing. |
 | [Kalpana](https://github.com/formidablefrank/Kalpana) | Python, GIS | ADCIRC visualization tooling for turning model output into vector geospatial formats. |
 | [ScientificPython_diploma25](https://github.com/formidablefrank/ScientificPython_diploma25) | Python | Scientific Python exercises, examples, and research-computing notes. |
 | [proSR](https://github.com/formidablefrank/proSR) | Python, ML | Progressive single-image super-resolution implementation. |
-| [leaflet-osm](https://github.com/formidablefrank/leaflet-osm) | JavaScript, Leaflet | A practical starting point for OpenStreetMap and Leaflet web mapping apps. |
+| [leaflet-osm](https://github.com/formidablefrank/leaflet-osm) | JavaScript, Leaflet | A practical starting point for building web-based mapping apps using OpenStreetMap and Leaflet. |
 | [WazeRouteCalculator](https://github.com/formidablefrank/WazeRouteCalculator) | Python | Route time and distance calculations using Waze data. |
 
 ## Find Me
 
-I also help small teams and enterprises with digital transformation work: web systems, automation, analytics, and practical tools that make day-to-day operations less painful.
-
-For research, software engineering, HPC, ML, geospatial projects, or collaboration ideas, LinkedIn is the best place to reach me.
+I also help small teams and enterprises with digital transformation utilizing AI: web and desktop apps, automation, analytics, and practical tools that make day-to-day operations less painful. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
 
 - LinkedIn: [linkedin.com/in/formidablefrank](https://linkedin.com/in/formidablefrank)
 - Linktree: [linktr.ee/formidablefrank](https://linktr.ee/formidablefrank)

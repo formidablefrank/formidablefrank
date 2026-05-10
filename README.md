@@ -1,6 +1,6 @@
 # Hi, I'm Franco
 
-I'm a research software engineer who likes turning scientific ideas into software that runs, scales, and helps people answer real questions. Most of my work encompasses high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" demands.
+I'm a research software engineer who likes turning scientific ideas into software that runs, scales, and helps people answer real questions.
 
 I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
@@ -31,6 +31,8 @@ The tools change from project to project but these are the ones I am comfortable
 - **Cloud and systems administration:** OpenStack, Azure, AWS, GCP, Linux, Windows, Ansible, Cobbler, Ganglia
 
 ## Featured Projects
+
+Most of my work encompasses high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" demands.
 
 | Project | Stack | Notes |
 | --- | --- | --- |

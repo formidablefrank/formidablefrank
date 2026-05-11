@@ -1,16 +1,17 @@
 # Hi, I'm Franco
 
-I'm a research software engineer who likes turning scientific ideas into software that runs, scales, and helps people answer real questions.
+I'm a research software engineer who turns complex scientific ideas into software that helps people answer real-world questions.
 
 I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-formidablefrank-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/formidablefrank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-formidablefrank-0A66C2?style=flat&logo=linksys&logoColor=white)](https://linkedin.com/in/formidablefrank)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=usKAWbsAAAAJ)
 [![Linktree](https://img.shields.io/badge/linktr.ee-formidablefrank-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/formidablefrank)
+[![Credly](https://img.shields.io/badge/Credly-formidablefrank-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/formidablefrank)
 
 ## What I Do
 
-I enjoy building software for complex scientific and engineering problems: storm-surge modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
+I enjoy building software for complex scientific and engineering problems: ocean-wave modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.
@@ -44,10 +45,8 @@ Most of my work encompasses high-performance computing, scientific computing, ma
 | [leaflet-osm](https://github.com/formidablefrank/leaflet-osm) | JavaScript, Leaflet | A practical starting point for building web-based mapping apps using OpenStreetMap and Leaflet. |
 | [WazeRouteCalculator](https://github.com/formidablefrank/WazeRouteCalculator) | Python | Route time and distance calculations using Waze data. |
 
-## Find Me
+## Let's Talk!
 
-I also help small teams and enterprises with digital transformation utilizing AI: web and desktop apps, automation, analytics, and practical tools that make day-to-day operations less painful. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
+I also help small teams and enterprises with digital transformation solutions utilizing AI: web and desktop apps, automation, analytics, and practical tools that make day-to-day operations more efficient. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
 
 - LinkedIn: [linkedin.com/in/formidablefrank](https://linkedin.com/in/formidablefrank)
-- Linktree: [linktr.ee/formidablefrank](https://linktr.ee/formidablefrank)
-- Google Scholar: [scholar.google.com/citations?user=usKAWbsAAAAJ](https://scholar.google.com/citations?user=usKAWbsAAAAJ)

@@ -11,7 +11,7 @@ I'm currently wrapping up my [Master in High Performance Computing](https://www.
 
 ## What I Do
 
-I enjoy building software for complex scientific and engineering problems: ocean-wave modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
+I enjoy building software for scientific and engineering problems: ocean-wave modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.
@@ -21,7 +21,7 @@ I enjoy building software for complex scientific and engineering problems: ocean
 
 ## Tech Stack
 
-The tools change from project to project but these are the ones I am comfortable working with:
+The tools change from project to project but these are the ones I am most comfortable working with:
 
 - **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  
@@ -33,7 +33,7 @@ The tools change from project to project but these are the ones I am comfortable
 
 ## Featured Projects
 
-Most of my work encompasses high-performance computing, scientific computing, machine learning, geospatial data, and the occasional "can we automate this whole workflow?" demands.
+My work encompasses scientific computing, machine learning, high-performance computing, geospatial data analysis, and workflow automation.
 
 | Project | Stack | Notes |
 | --- | --- | --- |
@@ -47,6 +47,6 @@ Most of my work encompasses high-performance computing, scientific computing, ma
 
 ## Let's Talk!
 
-I also help small teams and enterprises with digital transformation solutions utilizing AI: web and desktop apps, automation, analytics, and practical tools that make day-to-day operations more efficient. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
+I also help small teams and enterprises with digital transformation solutions utilizing AI: web apps, automation, analytics, and practical tools that make day-to-day operations more efficient. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
 
 - LinkedIn: [linkedin.com/in/formidablefrank](https://linkedin.com/in/formidablefrank)

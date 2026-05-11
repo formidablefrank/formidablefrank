@@ -1,13 +1,13 @@
 # Hi, I'm Franco
 
-I'm a research software engineer who turns complex scientific ideas into software solutions that helps people understand how the universe works..
-
-I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-formidablefrank-0A66C2?style=flat&logo=linksys&logoColor=white)](https://linkedin.com/in/formidablefrank)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=usKAWbsAAAAJ)
 [![Linktree](https://img.shields.io/badge/linktr.ee-formidablefrank-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/formidablefrank)
 [![Credly](https://img.shields.io/badge/Credly-formidablefrank-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/formidablefrank)
+
+I'm a research software engineer who turns complex scientific ideas into software solutions that helps people understand how the universe works.
+
+I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
 ## What I Do
 
@@ -21,7 +21,7 @@ I enjoy building software for scientific and engineering problems: ocean-wave mo
 
 ## Tech Stack
 
-The tools change from project to project but these are the ones I am most comfortable working with:
+The tools change from project to project but these are the ones I am comfortable working with:
 
 - **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  

@@ -1,6 +1,6 @@
 # Hi, I'm Franco
 
-I'm a research software engineer who turns complex scientific ideas into software that helps people answer real-world questions.
+I'm a research software engineer who turns complex scientific ideas into software solutions that helps people understand how the universe works..
 
 I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
@@ -11,7 +11,7 @@ I'm currently wrapping up my [Master in High Performance Computing](https://www.
 
 ## What I Do
 
-I enjoy building software for scientific and engineering problems: ocean-wave modeling, weather forecasts, Earth observation data analysis, simulations, automated pipelines, and applied ML systems.
+I enjoy building software for scientific and engineering problems: ocean-wave modeling, weather forecasts, Earth observation data analysis, numerical simulations, ML systems, and automated pipelines.
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.

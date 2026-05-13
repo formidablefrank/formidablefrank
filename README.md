@@ -7,7 +7,7 @@
 
 I'm a research software engineer who turns complex scientific ideas into software solutions that helps people understand how the universe works.
 
-I'm currently wrapping up my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship from the Abdus Salam International Centre for Theoretical Physics (ICTP).
+I'm completing my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship awarded by the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
 ## What I Do
 
@@ -15,13 +15,13 @@ I enjoy building software for scientific and engineering problems: ocean-wave mo
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.
-- Applying machine learning and computer vision to research workflows.
-- Working with geospatial and Earth observation data using GIS, web mapping, and ML.
-- Turning prototypes into tested, documented, portable and maintainable software.
+- Applying machine learning and data visualization to research workflows.
+- Working with geospatial and Earth observation data using GIS, web mapping, and computer vision.
+- Turning prototypes into documented, portable and maintainable software.
 
 ## Tech Stack
 
-The tools change from project to project but these are the ones I am comfortable working with:
+The tools I use depend on the project but these are the ones I am comfortable working with:
 
 - **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  
@@ -33,7 +33,7 @@ The tools change from project to project but these are the ones I am comfortable
 
 ## Featured Projects
 
-My work encompasses scientific computing, machine learning, high-performance computing, geospatial data analysis, and workflow automation.
+My works make use of scientific computing, machine learning, high-performance computing, geospatial data analysis, and workflow automation.
 
 | Project | Stack | Notes |
 | --- | --- | --- |
@@ -47,6 +47,6 @@ My work encompasses scientific computing, machine learning, high-performance com
 
 ## Let's Talk!
 
-I also help small teams and enterprises with digital transformation solutions utilizing AI: web apps, automation, analytics, and practical tools that make day-to-day operations more efficient. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
+I also help small enterprises with digital transformation solutions utilizing AI: web apps, automation, data analytics, and tools that make daily operations more efficient. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
 
 - LinkedIn: [linkedin.com/in/formidablefrank](https://linkedin.com/in/formidablefrank)

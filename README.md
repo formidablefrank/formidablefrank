@@ -11,7 +11,7 @@ I'm completing my [Master in High Performance Computing](https://www.mhpc.it/stu
 
 ## What I Do
 
-I enjoy building software for scientific and engineering problems: ocean-wave modeling, weather forecasts, Earth observation data analysis, numerical simulations, ML systems, and automated pipelines.
+I build software for scientific and engineering problems: Earth systems simulation, Earth observation data analysis, numerical simulations, ML systems, and automated pipelines.
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.
@@ -23,17 +23,15 @@ I enjoy building software for scientific and engineering problems: ocean-wave mo
 
 The tools I use depend on the project but these are the ones I am comfortable working with:
 
-- **HPC and acceleration:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
+- **HPC software development:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  
-- **ML and data engineering:** PyTorch, OpenCV, scikit-learn, GeoPandas, Panel, Power BI, Airflow  
+- **ML and data engineering:** PyTorch, OpenCV, scikit-learn, ollama, vLLM, GeoPandas, Panel, Power BI, Airflow
 - **Geospatial data analysis:** QGIS, Google Earth Engine, Google Maps, STAC, Leaflet  
 - **Software engineering:** Git, Docker, C#, PHP, Java, Ruby, CI/CD, Agile/Scrum  
-- **Web and APIs:** Django, FastAPI, ASP.NET Core, Ruby on Rails, HTML, CSS, JavaScript  
+- **Web applications:** Django, FastAPI, ASP.NET Core, Ruby on Rails, HTML, CSS, JavaScript  
 - **Cloud and systems administration:** OpenStack, Azure, AWS, GCP, Linux, Windows, Ansible, Cobbler, Ganglia
 
 ## Featured Projects
-
-My works make use of scientific computing, machine learning, high-performance computing, geospatial data analysis, and workflow automation.
 
 | Project | Stack | Notes |
 | --- | --- | --- |

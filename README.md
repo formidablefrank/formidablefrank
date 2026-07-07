@@ -35,13 +35,14 @@ The tools I use depend on the project but these are the ones I am comfortable wo
 
 | Project | Stack | Notes |
 | --- | --- | --- |
-| [StormSurgeApp](https://github.com/formidablefrank/StormSurgeApp) | Python | Storm-surge model output processor and hazard-analysis tool. |
 | [asgs](https://github.com/formidablefrank/asgs) | Fortran, shell, HPC | ADCIRC Surge Guidance System fork for real-time storm surge model automation and pre/post-processing. |
+| [formidablefrank.github.io](https://formidablefrank.github.io) | Portfolio, GitHub Pages | Personal technical portfolio for showcasing projects, skills, and software engineering impact. |
+| [StormSurgeApp](https://github.com/formidablefrank/StormSurgeApp) | Python | Storm-surge model output processor and hazard-analysis tool. |
 | [Kalpana](https://github.com/formidablefrank/Kalpana) | Python, GIS | ADCIRC visualization tooling for turning model output into vector geospatial formats. |
 | [ScientificPython_diploma25](https://github.com/formidablefrank/ScientificPython_diploma25) | Python | Scientific Python exercises, examples, and research-computing notes. |
 | [proSR](https://github.com/formidablefrank/proSR) | Python, ML | Progressive single-image super-resolution implementation. |
-| [leaflet-osm](https://github.com/formidablefrank/leaflet-osm) | JavaScript, Leaflet | A practical starting point for building web-based mapping apps using OpenStreetMap and Leaflet. |
 | [WazeRouteCalculator](https://github.com/formidablefrank/WazeRouteCalculator) | Python | Route time and distance calculations using Waze data. |
+| [leaflet-osm](https://github.com/formidablefrank/leaflet-osm) | JavaScript, Leaflet | A practical starting point for building web-based mapping apps using OpenStreetMap and Leaflet. |
 
 ## Let's Talk!
 

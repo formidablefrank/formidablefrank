@@ -7,7 +7,7 @@
 
 I'm a research software engineer who turns complex scientific ideas into software solutions that help people understand how the universe works.
 
-I'm completing my [Master in High Performance Computing](https://www.mhpc.it/students) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship awarded by the Abdus Salam International Centre for Theoretical Physics (ICTP).
+I'm completing my [Master in High Performance Computing](https://www.mhpc.it) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship awarded by the Abdus Salam International Centre for Theoretical Physics (ICTP).
 
 ## What I Do
 
@@ -15,13 +15,11 @@ I build software for scientific and engineering problems: Earth systems simulati
 
 - Making simulations and numerical models run faster and more reliably on HPC systems.
 - Building scientific tools in Python, Fortran, C++, MATLAB, and Mathematica.
-- Applying machine learning and data visualization to research workflows.
+- Applying machine learning and data visualization on business process and research experiment data.
 - Working with geospatial and Earth observation data using GIS, web mapping, and computer vision.
 - Turning prototypes into documented, portable and maintainable software.
 
 ## Tech Stack
-
-The tools I use depend on the project but these are the ones I am comfortable working with:
 
 - **HPC software development:** MPI, OpenMP, OpenACC, CUDA, NVIDIA Nsight, Slurm, Singularity
 - **Scientific computing:** Python, C++, Fortran, MATLAB, Mathematica  
@@ -32,8 +30,6 @@ The tools I use depend on the project but these are the ones I am comfortable wo
 - **Cloud and systems administration:** OpenStack, Azure, AWS, GCP, Linux, Windows, Ansible, Cobbler, Ganglia
 
 ## Featured Projects
-
-Ranked for HPC software developer roles: parallel programming, GPU acceleration, scientific modeling, benchmarking, and research software engineering first.
 
 | Rank | Project | Stack | Why it matters |
 | --- | --- | --- | --- |

@@ -5,6 +5,8 @@
 [![Linktree](https://img.shields.io/badge/linktr.ee-formidablefrank-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/formidablefrank)
 [![Credly](https://img.shields.io/badge/Credly-formidablefrank-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/formidablefrank)
 
+![terminal](terminal.gif)
+
 I'm a research software engineer who turns complex scientific ideas into software solutions that help people understand how the universe works.
 
 I'm completing my [Master in High Performance Computing](https://www.mhpc.it) at Scuola Internazionale Superiore di Studi Avanzati (SISSA), supported by a full scholarship awarded by the Abdus Salam International Centre for Theoretical Physics (ICTP).
